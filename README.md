@@ -27,11 +27,8 @@ The bulk of consumer purchase and growth in retail is shifting towards Asia. In 
 
 <br>
 * The offline retail experience offers poor quality, low variety, poor targetability, and high prices
-<br>
 * Social media and retail integration are here to stay and have created category defining companies and platforms, such as, Pinterest, Venmo, Instagram, and Pinduoduo
-<br>
 * Engagement with consumers is key to converting into a selling opportunity
-<br>
 * Unique insight: pay users to generate engagement with their friends, called referral marketing
 
 
