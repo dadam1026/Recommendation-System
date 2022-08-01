@@ -11,6 +11,11 @@ Motivation
 ----------
 "A charity dollar has only one life; a Social Business dollar can be invested over and over again." - Muhammad Yunus
 
+Muhammad Yunus: Founder, Grameen Bank of Bangladesh & recipient of the  2006 Nobel Peace Prize
+                Known for creating “micro-credit,” which provides “micro” loans to the poor to serve as a catalyst for improving their socio-economic                       conditions
+![image](https://user-images.githubusercontent.com/78511177/182180113-fd012614-6a32-416d-95ec-9816a387d8f4.png)
+Source: United Nations Foundation
+
 
 Problem Statement
 -----------------
