@@ -17,7 +17,8 @@ Muhammad Yunus:
 * Known for creating “micro-credit,” which provides “micro” loans to the poor to serve as a catalyst for improving their socio-economic                       conditions
 <br>
 ![image](https://user-images.githubusercontent.com/78511177/182180113-fd012614-6a32-416d-95ec-9816a387d8f4.png)
-<br>
+
+
 (Source: United Nations Foundation)
 
 
