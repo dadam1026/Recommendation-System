@@ -6,3 +6,35 @@
 #### Project Structure: Recommendation System Module
 #### Category: E-Commerce
 #### Steamlit Application: [Link])
+
+Motivation
+----------
+
+
+Problem Statement
+-----------------
+
+
+Getting Started
+---------------
+
+Data Sourcing, Processing, & Modeling
+-------------------------------------
+
+Adavantages of Deep Learning vs. Non-Deep Learning in E-Commerce
+---------------
+
+Model Evaluation & Results
+----------------------------
+
+Future Work
+------------
+
+Conclusion
+----------
+
+Additional Resources
+--------------------
+
+Citation
+--------
