@@ -4,7 +4,7 @@
 #### AIPI 540 Deep Learning Applications
 #### Project by: Derrick Adam
 #### Project Structure: Recommendation System Module
-#### Category: E-Commerce
+#### Category: Social Commerce
 #### Steamlit Application: [Link])
 
 Motivation
