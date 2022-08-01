@@ -35,6 +35,7 @@ The bulk of consumer purchase and growth in retail is shifting towards Asia. In 
 * Engagement with consumers is key to converting into a selling opportunity
 <br>
 * Unique insight: pay users to generate engagement with their friends, called referral marketing
+* Rise of the middle class & disposable income, internet connectivity, and mobile phone uses
 
 
 Problem Statement
