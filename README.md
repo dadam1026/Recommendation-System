@@ -71,6 +71,7 @@ Additional Resources
 * Bloomberg Article on Meta's (formerly known as Facebook) $19 Billion Acquisition of WhatsApp: [here](https://www.bloomberg.com/opinion/articles/2022-07-25/zuckerberg-s-bet-on-whatsapp-might-not-pay-off)
 * McKinsey Report: Decarbonizing Grocery: [here](https://www.mckinsey.com/industries/retail/our-insights/decarbonizing-grocery)
 * Michelle Obama and the greater Obama Administration's America's Healthy Food Financing Initiative Reinvestment Fund: [here](https://www.investinginfood.com/)
+* Partnership for a Healthier America: [here](https://www.ahealthieramerica.org/)
 
 Citation
 --------
