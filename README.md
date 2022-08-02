@@ -52,20 +52,10 @@ Getting Started
 ```
 pip install -r requirements.txt
 ```
-2. Download the nltk modules required to run the application by following these steps:
-```
-python 
-import nltk
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('omw-1.4')
-nltk.download('vader_lexicon')
-```
-3. Start the Streamlit app
+2. Start the Streamlit app
 ```
 streamlit run main.py
 ```
-
 Data Sourcing, Processing, & Modeling
 -------------------------------------
 
