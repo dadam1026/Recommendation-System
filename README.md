@@ -7,7 +7,7 @@
 #### Project by: Derrick Adam
 #### Project Structure: Recommendation System Module
 #### Category: Social Commerce
-#### Steamlit Application: [Link])
+#### Steamlit Application: [Link](http://localhost:8501/)
 
 Motivation
 ----------
