@@ -36,7 +36,7 @@ The bulk of consumer purchase and growth in retail is shifting towards Asia. In 
 <br>
 * Unique insight: pay users to generate engagement with their friends, called referral marketing
 * Rise of the middle class & disposable income, internet connectivity, and mobile phone uses
-* Food deserts within underdeveloped areas is also leading to increased food insecurity
+* Food deserts within underdeveloped areas causes increased food insecurity and collateral damage: inhabbitants not wanting to pay for medical help since they need food
 
 
 Problem Statement
