@@ -66,6 +66,7 @@ https://user-images.githubusercontent.com/78511177/182522439-12f4503f-34fb-4bea-
 
 Data Sourcing, Processing, & Modeling
 -------------------------------------
+Data is courced from Kaggle's Zomato's Recommendation System: https://www.kaggle.com/code/chirag9073/zomato-recommendation-system/notebook
 
 Adavantages of Deep Learning vs. Non-Deep Learning in E-Commerce
 ---------------
