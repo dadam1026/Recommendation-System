@@ -105,6 +105,7 @@ Search results for Container Coffee:
 
 Future Work
 ------------
+* include review text and user rating evaluations (whether other users thought a particular user’s review was funny, useful, or helpful) as features in the prediction model
 * A platform, like WhatsApp or Facebook Messenger, can be leveraged to provide low-cost, healthy food to *food deserts*, undeveloped areas with increased levels of food insecurity
 * 
 
