@@ -83,10 +83,15 @@ Conclusion
 Additional Resources
 --------------------
 * Corresponding Slide Deck: [here](https://prodduke-my.sharepoint.com/:p:/g/personal/da204_duke_edu/EScIg4CKoqJOqLhn_NIefk8Bj4aZ5zOENWZVOYkwIkT7zg?e=WjJlps)
+
 * Creating a World Without Poverty: Social Business and the Future of Capitalism by Muhammad Yunus: [here](https://www.amazon.com/Creating-World-Without-Poverty-Capitalism/dp/1586486675/ref=sr_1_1?crid=2M36RNX09TRDJ&keywords=Creating+a+World+Without+Poverty%3A+Social+Business+and+the+Future+of+Capitalism+by+Muhammad+Yunus&qid=1659367467&sprefix=creating+a+world+without+poverty+social+business+and+the+future+of+capitalism+by+muhammad+yunus%2Caps%2C147&sr=8-1)
+
 * Bloomberg Article on Meta's (formerly known as Facebook) $19 Billion Acquisition of WhatsApp: [here](https://www.bloomberg.com/opinion/articles/2022-07-25/zuckerberg-s-bet-on-whatsapp-might-not-pay-off)
+
 * McKinsey Report: Decarbonizing Grocery: [here](https://www.mckinsey.com/industries/retail/our-insights/decarbonizing-grocery)
+
 * Michelle Obama lead America's Healthy Food Financing Initiative Reinvestment Fund: [here](https://www.investinginfood.com/)
+
 * Partnership for a Healthier America: [here](https://www.ahealthieramerica.org/)
 
 Citation
