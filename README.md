@@ -14,7 +14,9 @@ Motivation
 "A charity dollar has only one life; a Social Business dollar can be invested over and over again." - Muhammad Yunus
 
 Social x Mission-Driven Commerce
-![image](https://user-images.githubusercontent.com/78511177/182501840-b10be98b-4693-4580-9af6-3c6b88af7450.png)
+
+
+![image](![image](https://user-images.githubusercontent.com/78511177/182501979-476cec75-e8a9-4d6d-8f70-99d6f74322f9.png)
 
 
 In 2021, online retail sales in the U.S. totaled $960 Billion. China's total was $2.49 trillion and India's was 1.08 trillion. China's e-commerce market is larger than the U.S., U.K., Japan, and Germany *combined*. China has many e-commerce competitors, such as Alibaba, JD.com, Tencent, Meituan, and Pinduoduo. E-Commerce in India, Africa, and South America are more fragmented and only represents a small fraction of total retail sales. Pinduoduo, for example, is successful in China because it leverages the social networks created on the ubiquitous WeChat platform (owned by Tencent). WhatsApp (owned by Meta) has similar ubiquity in large markets such as, India, Brazil, Indonesia, the U.S., Nigeria, Egypt, and Kenya. WhatsApp is sitting on a goldmine of social networks from which group-buying can leverage to bring affordable everyday products like groceries and fast moving consumer goods (FMCG) to platform users, especially in Tier-2 and Tier-3 cities. Given that the incumbents have a vice-grip on local Chinese tastes and customs, focusing on Tier-2 and Tier-3 cities in areas where WhatsApp is most used, offer a more compelling value proposition. Additionally, such a platform can be levraged to provide low-cost, healthy food to *food deserts*, or undeveloped areas with increased levels of food insecurity. 
