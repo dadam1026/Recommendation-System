@@ -25,7 +25,6 @@ In 2021, online retail sales in the U.S. totaled $960 Billion. China's total was
 * Integrated Ecosystems should be the goal. Alibaba & Tencent combine Search x Social x Commerce x Logistics x Payments
 * Engagement with consumers is key to converting into a selling opportunity
 * Rise of the middle class & disposable income, internet connectivity, and mobile phone uses will continue to drive e-commerce
-* Food deserts within underdeveloped areas causes increased food insecurity and collateral damage: inhabbitants not wanting to pay for medical help since they need food
 
 
 Problem Statement
