@@ -22,8 +22,8 @@ Social x Mission-Driven Commerce
 In 2021, online retail sales in the U.S. totaled $960 Billion. China's total was $2.49 trillion and India's was 1.08 trillion. China's e-commerce market is larger than the U.S., U.K., Japan, and Germany *combined*. China has many e-commerce competitors, such as Alibaba, JD.com, Tencent, Meituan, and Pinduoduo.  Pinduoduo, for example, is successful in China because it leverages the social networks created on the ubiquitous WeChat platform (owned by Tencent). WhatsApp (owned by Meta) has similar ubiquity in India, the U.S., Africa, and South America. WhatsApp is sitting on a goldmine of social networks from which group-buying can bring affordable groceries and fast moving consumer goods (FMCG) to users, especially in Tier-2 and Tier-3 cities. China is  already saturated, so focusing on Tier-2 and Tier-3 cities in areas where WhatsApp is most used, offers a more compelling value proposition. 
 <br>
 * Social media and retail integration are here to stay and have created category defining companies and platforms, such as, Pinterest, Venmo, Instagram, and Pinduoduo 
-* Integrated Ecosystems should be the goal. Alibaba & Tencent combine Search x Social x Commerce x Logistics x Payments
 * Engagement with consumers is key to converting into a selling opportunity
+* Integrated Ecosystems should be the goal. Alibaba & Tencent combine Search x Social x Commerce x Logistics x Payments
 * Rise of the middle class & disposable income, internet connectivity, and mobile phone uses will continue to drive e-commerce
 
 
