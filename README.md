@@ -89,8 +89,11 @@ Future Work
 
 Conclusion
 ----------
-* Tencent's WeChat is not successful becuase it has so many people. Rather, it monetizes its vast user base by providing seamless integration of Search x Social x Commerce x Logistics x Payments x Gaming
-* 
+* Tencent's WeChat is not successful becuase it has so many people or sells things. Rather, it monetizes its vast user base by providing seamless integration of Search x Social x Commerce x Logistics x Payments x Gaming
+* In the case of Meta/Facebook, the only way to retain and grow its existing user base is to provide them exceptional value beyond the ad business 
+* Apple shifted from a hardware focus to a recurring revenue services business -> resulting in multiple expansion -> ~2.5 trillion market cap
+* Regardless of platform, users need a reason to stay. Giving them great product recommendations, engaging content, and channels to connect with their networks -> create a "sticky" platform that can fuel company growth 
+
  
 
 Additional Resources
