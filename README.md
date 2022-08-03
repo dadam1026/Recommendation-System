@@ -38,11 +38,12 @@ Problem Statement
 * This project will serve as proof-of-concept for  WhatsApp to integrate with e-commerce retailers serving other Tier-2 cities, Tier-3 cities, and food deserts. Group-Buying, a cocnept proven by China's Pinduoduo, makes use of the WeChat platform and the rise in social commerce to drive down the costs of goods for those living in Tier-2 and Tier-3 cities. 
 * The interactive Streamlit platform abstracts away the mundane and provides value to the end user in the following ways: 
 
-    1) Users input a stock ticker and the model will compile relevant news threads regarding that stock to curate a generative summary
+    1) Users input their favorite restaurant
 
-    2) Sentiment analysis will label the news aggregation as positive, negative, or uncertain
+    2) TF-IDF Is used to find similar words
 
-    3) Given that non-consensus investing yields superior returns, the platform will generate a buy recommendation when the sentiment is negative, a sell signal when the sentiment is negative, and do nothing when the sentiment is uncertain
+    3) System will look at the reviews of other restaurants and recommend other restaurants with similar reviews sorted from highest to lowest rated
+
 
 
 
@@ -57,6 +58,12 @@ pip install -r requirements.txt
 ```
 streamlit run main.py
 ```
+Here a demo of the Streamlit app:
+
+https://user-images.githubusercontent.com/78511177/182522439-12f4503f-34fb-4bea-babd-643905e7fa57.mp4
+
+
+
 Data Sourcing, Processing, & Modeling
 -------------------------------------
 
