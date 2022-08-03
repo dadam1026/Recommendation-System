@@ -83,18 +83,22 @@ Model Evaluation & Results
 ----------------------------
 
 Search results for Chianti:
+
 <img width="721" alt="Screen Shot 2022-08-03 at 10 00 08 AM" src="https://user-images.githubusercontent.com/78511177/182668073-438e0d8f-8c02-4e3a-a8f9-adc66bac7c39.png">
 
 
 Search results for Church Street Social:
+
 <img width="728" alt="Screen Shot 2022-08-03 at 10 02 33 AM" src="https://user-images.githubusercontent.com/78511177/182668158-5cb0be61-dbf6-4dfd-9b39-681eb25f55d0.png">
 
 
 Search results for Pai Vihar:
+
 <img width="717" alt="Screen Shot 2022-08-03 at 10 03 26 AM" src="https://user-images.githubusercontent.com/78511177/182668281-ef5ba258-de4a-46b4-912b-7180a993c9e6.png">
 
 
 Search results for Container Coffee:
+
 <img width="720" alt="Screen Shot 2022-08-03 at 10 06 47 AM" src="https://user-images.githubusercontent.com/78511177/182668360-398bbc01-1b74-46a8-9ecd-6a3b1ecd9f08.png">
 
 
