@@ -1,5 +1,5 @@
 # A Tale of Two Cities: Tier-2 & Tier-3
-# Leveraging Personalized Recommendations for Social Commerce
+# Restaurant Recommednations Using User-Reviews 
 ![image](https://user-images.githubusercontent.com/78511177/182169566-c93f872b-daa2-469c-9f91-8e5c6c795308.png)
 
 
