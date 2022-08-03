@@ -74,11 +74,11 @@ Deep Learning Recommendation Systems in E-Commerce can better capture the propri
 
 Recommendation Systems enrich the buying and social aspects of e-commerce in the following ways:
 
-   1) Personalized Recommendations: Depth over breadth. Understanding the individual is directly correlated to higher platoform engagement whch yields a higher buying convert rate 
+   1) 💍 Personalized Recommendations: Depth over breadth. Understanding the individual is directly correlated to higher platform engagement whch yields a higher buying convert rate 
     
-   2) Dynamic Pricing: Influencers can use their network to generate price reductions for groups or members of their platform 
+   2) 🏷 Dynamic Pricing: Influencers can use their network to generate price reductions for groups or members of their platform 
      
-   3) Search and Discovery: Breadth over depth. Recommendation systems have access to engagement data within thier platform and can suggest items an individual might not consider otherwise
+   3) 🔎 Search and Discovery: Breadth over depth. Recommendation systems have access to engagement data within thier platform and can suggest items an individual might not consider otherwise
 
 Model Evaluation & Results
 ----------------------------
@@ -107,8 +107,8 @@ Search results for Container Coffee:
 Future Work
 ------------
 * Include review text and user rating evaluations (whether other users thought a particular user’s review was funny, useful, or helpful) as features in the prediction model
-* A platform, like WhatsApp or Facebook Messenger, can be leveraged to provide low-cost, healthy food to *food deserts*, undeveloped areas with increased levels of food insecurity
-* Engage other successful platforms  to , like Amazon, Sea, MercadLibre, 
+* A platform, like WhatsApp or Facebook Messenger, can be leveraged to provide low-cost, healthy food to *food deserts*, undeveloped areas with increased levels of food insecurity. For example, at the end of day restaurant food gets trown out. That food can be routed to families living in food deserts
+* Engage other successful platforms and other organizations to increase reach. Some possible collaborators include, Amazon, Sea, MercadoLibre, Jumia, Shopify, America's Healthy Food Financing Initiative Reinvestment Fund, and Partnership for a Healthier America
 
 Conclusion
 ----------
@@ -118,6 +118,7 @@ Conclusion
 * Since there are many great exisitng products, any given platform needs to give users many reasons to stay. Giving them great product recommendations, engaging content, and channels to connect with their networks -> create a "sticky" platform that can fuel company growth 
 * Prioritzing users by playing towards their prefernces and personalities, can lead to increased customer lifetime value
 * A platform that can serve groups of people at the same time can serve many while decarbonizing grocery and food delivery
+* A social business is the best type of business and juggernauts like Meta can offset projected loses in the food delivery business by further moentizing the WhatsApp and Facebook Messenger platforms. AWS subsidizes the razor-thin margins of Amazon's retail business, but that is why we get cheap prodcuts delivered so quickly. 
  
 
 Additional Resources
