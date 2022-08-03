@@ -115,8 +115,8 @@ Conclusion
 * In the case of Meta/Facebook, the only way to retain and grow its existing user base is to provide them exceptional value beyond the ad business 
 * Apple shifted from a hardware focus to a recurring revenue services business -> resulting in multiple expansion -> ~2.5 trillion market cap
 * Since there are many great exisitng products, any given platform needs to give users many reasons to stay. Giving them great product recommendations, engaging content, and channels to connect with their networks -> create a "sticky" platform that can fuel company growth 
-* Prioritzing users and making them feel heard, can lead to increased customer lifetime value
-
+* Prioritzing users by playing towards their prefernces and personalities, can lead to increased customer lifetime value
+* A platform that can serve groups of people at the same time can serve many while decarbonizing grocery and food delivery
  
 
 Additional Resources
