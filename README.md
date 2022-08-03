@@ -30,6 +30,7 @@ In 2021, online retail sales in the U.S. totaled $960 Billion. China's total was
 Problem Statement
 -----------------
 * The objective of this project is to generate restaurant recommendations from user reviews on the Zomato platform, an Indian company that focuses Tier-2 and Tier-3 cities
+* Tastes are unique and oftentimes representative of the area one lives in
 * This project will serve as proof-of-concept for  WhatsApp to integrate with e-commerce retailers serving other Tier-2 cities, Tier-3 cities, and food deserts. Group-Buying, a cocnept proven by China's Pinduoduo, makes use of the WeChat platform and the rise in social commerce to drive down the costs of goods for those living in Tier-2 and Tier-3 cities. 
 * The interactive Streamlit platform abstracts all of this away and provides value to the end user in the following ways: 
 
