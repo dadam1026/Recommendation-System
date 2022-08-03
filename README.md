@@ -27,6 +27,7 @@ In 2021, online retail sales in the U.S. totaled $960 Billion. China's total was
 
 Massive Runway of E-Commerce
 ![image](https://user-images.githubusercontent.com/78511177/182518312-4b3746fe-5431-4192-8d05-7791e5912414.png)
+
 (Source: convergine.com)
 
 
