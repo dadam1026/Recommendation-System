@@ -69,16 +69,29 @@ Data Sourcing, Processing, & Modeling
 
 Adavantages of Deep Learning vs. Non-Deep Learning in E-Commerce
 ---------------
+Deep Learning Recommendation Systems in E-Commerce can better capture the proprietary meaning of one's data. Past engagement data is used to make informed reommendations in the future.
+
+Recommendation Systems enrich the buying and social aspects of e-commerce in the following ways:
+
+   1) Personalized Recommendations: Depth over breadth. Understanding the individual is directly correlated to higher platoform engagement whch yields a higher buying convert rate 
+    
+   2) Dynamic Pricing: Influencers can use their network to generate price reductions for groups or members of their platform 
+     
+   3) Search and Discovery: Breadth over depth. Recommendation systems have access to engagement data within thier platform and can suggest items an individual might not consider otherwise
 
 Model Evaluation & Results
 ----------------------------
 
 Future Work
 ------------
-Additionally, this platform can be levraged to provide low-cost, healthy food to *food deserts*, or undeveloped areas with increased levels of food insecurity. 
+* A platform, like WhatsApp or Facebook Messenger, can be leveraged to provide low-cost, healthy food to *food deserts*, undeveloped areas with increased levels of food insecurity
+* 
 
 Conclusion
 ----------
+* Tencent's WeChat is not successful becuase it has so many people. Rather, it monetizes its vast user base by providing seamless integration of Search x Social x Commerce x Logistics x Payments x Gaming
+* 
+ 
 
 Additional Resources
 --------------------
