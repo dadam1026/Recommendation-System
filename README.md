@@ -66,7 +66,17 @@ https://user-images.githubusercontent.com/78511177/182522439-12f4503f-34fb-4bea-
 
 Data Sourcing, Processing, & Modeling
 -------------------------------------
-Data is courced from Kaggle's Zomato's Recommendation System: https://www.kaggle.com/code/chirag9073/zomato-recommendation-system/notebook
+* Data is sourced from Kaggle's Zomato's Recommendation System. The data file is large, so here is the link: https://www.kaggle.com/code/chirag9073/zomato-recommendation-system/notebook
+
+* When a user enters a restaurant on the Streamlit User Interface the following steps happen under the hood:
+
+     1) Loading the Dataset
+    
+     2) Data Cleaning: Renaming columns, dropping duplicates, and removing NaN values from the dataset 
+     
+     3) Text Preprocessing: Cleaning unnecessary words in the reviews, Removing links and other unncessary items, and Removing Symbols
+
+     4) Recommendation System
 
 Adavantages of Deep Learning vs. Non-Deep Learning in E-Commerce
 ---------------
