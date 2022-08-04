@@ -36,7 +36,7 @@ Problem Statement
 -----------------
 * The objective of this project is to generate restaurant recommendations from user reviews on the Zomato platform, an Indian restaurant aggregator and food delivery company focusing on Tier-2 and Tier-3 cities
 * Tastes are unique and oftentimes representative of the area one lives in
-* This project will serve as proof-of-concept for  WhatsApp to integrate with e-commerce retailers serving other Tier-2 cities, Tier-3 cities, and food deserts. Group-Buying, a cocnept proven by China's Pinduoduo, makes use of the WeChat platform and the rise in social commerce to drive down the costs of goods for those living in Tier-2 and Tier-3 cities. 
+* This project will serve as proof-of-concept for  WhatsApp to integrate with e-commerce retailers serving other Tier-2 cities, Tier-3 cities, and food deserts. Group-Buying, a concept proven by China's Pinduoduo, makes use of the WeChat platform and the rise in social commerce to drive down the costs of goods for those living in Tier-2 and Tier-3 cities. 
 * The interactive Streamlit platform abstracts away the mundane and provides value to the end user in the following ways: 
 
     1) Users input their favorite restaurant
