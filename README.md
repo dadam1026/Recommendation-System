@@ -95,14 +95,23 @@ Model Evaluation & Results
 * Very successful results because it is finding similar type of restaurants:
     
     1) If a cafe is inputted, the recommendations are cafes
-       Example:  Container Coffee 
+       Example: Container Coffee 
+       
+       
        
        <img width="320" alt="image" src="https://user-images.githubusercontent.com/78511177/182875531-1f08ec0f-09a2-4d8e-b8ad-a5ac7f4aed78.png">
 
 
+
+
     2) If a pub  is inputted, the recommendations are pubs
        Example:  Church Street Social 
+       
+       
+       
        <img width="278" alt="image" src="https://user-images.githubusercontent.com/78511177/182875560-e00208d3-3ee0-43f9-8ee4-1fc71d303761.png">
+
+
 
 * Other Results:
        
