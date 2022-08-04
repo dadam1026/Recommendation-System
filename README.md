@@ -23,7 +23,7 @@ In 2021, online retail sales in the U.S. totaled $960 Billion. China's total was
 <br>
 * Social media and retail integration are here to stay and have created category defining companies and platforms, such as, Pinterest, Venmo, Instagram, and Pinduoduo 
 * Engagement with consumers is key to converting into a selling opportunity
-* Integrated Ecosystems should be the goal. Alibaba & Tencent combine Search x Social x Commerce x Logistics x Payments
+* Integrated Ecosystems should be the goal. Alibaba & Tencent combine Search x Social x Commerce x Logistics x Payments x Gaming
 * Rise of the middle class & disposable income, internet connectivity, and mobile phone uses will continue to drive e-commerce
 
 Massive Runway of E-Commerce
