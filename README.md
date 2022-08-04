@@ -34,14 +34,14 @@ Massive Runway of E-Commerce
 
 Problem Statement
 -----------------
-* The objective of this project is to generate restaurant recommendations from user reviews on the Zomato platform, an Indian company that focuses Tier-2 and Tier-3 cities
+* The objective of this project is to generate restaurant recommendations from user reviews on the Zomato platform, an Indian restaurant aggregator and food delivery company focusing on Tier-2 and Tier-3 cities
 * Tastes are unique and oftentimes representative of the area one lives in
 * This project will serve as proof-of-concept for  WhatsApp to integrate with e-commerce retailers serving other Tier-2 cities, Tier-3 cities, and food deserts. Group-Buying, a cocnept proven by China's Pinduoduo, makes use of the WeChat platform and the rise in social commerce to drive down the costs of goods for those living in Tier-2 and Tier-3 cities. 
 * The interactive Streamlit platform abstracts away the mundane and provides value to the end user in the following ways: 
 
     1) Users input their favorite restaurant
 
-    2) TF-IDF Is used to find similar words
+    2) TF-IDF is used to find similar words
 
     3) System will look at the reviews of other restaurants and recommend other restaurants with similar reviews sorted from highest to lowest rated
 
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```
 streamlit run main.py
 ```
-Here a demo of the Streamlit app:
+Here is a demo of the Streamlit app:
 
 https://user-images.githubusercontent.com/78511177/182522439-12f4503f-34fb-4bea-babd-643905e7fa57.mp4
 
@@ -85,15 +85,15 @@ Deep Learning Recommendation Systems in E-Commerce can better capture the propri
 
 Recommendation Systems enrich the buying and social aspects of e-commerce in the following ways:
 
-   1) 💍 Personalized Recommendations: Depth over breadth. Understanding the individual is directly correlated to higher platform engagement whch yields a higher buying convert rate 
+   1) 💍 Bespoke Recommendations: Depth over breadth. Understanding the individual is directly correlated to higher platform engagement whch yields a higher buying convert rate 
     
-   2) 🏷 Dynamic Pricing: Influencers can use their network to generate price reductions for groups or members of their platform 
+   2) 🏷 Dynamic Pricing: Influencers can use their network to generate price reductions for groups/followers of their platform 
      
-   3) 🔎 Search and Discovery: Breadth over depth. Recommendation systems have access to engagement data within thier platform and can suggest items an individual might not consider otherwise
+   3) 🔎 Search and Discovery: Breadth over depth. Recommendation systems have access to engagement data within thier platform and can suggest items an individual might not have considered otherwise
 
 Model Evaluation & Results
 ----------------------------
-* Very successful results because it is finding similar type of restaurants:
+* The tools is generating very successful results because it is finding similar type of restaurants to the input:
     
     1) If a cafe is inputted, the recommendations are cafes
        
@@ -139,10 +139,10 @@ Future Work
 
 Conclusion
 ----------
-* Tencent's WeChat is not successful becuase it has so many people or sells things. Rather, it monetizes its vast user base by providing seamless integration of Search x Social x Commerce x Logistics x Payments x Gaming
-* Since there are many great exisitng products, any given platform needs to give users many reasons to stay. Giving them great product recommendations, engaging content, and channels to connect with their networks -> create a "sticky" platform that can fuel company growth 
+* Tencent's WeChat is not successful because it has so many people or sells things. Rather, it monetizes its vast user base by providing seamless integration of Search x Social x Commerce x Logistics x Payments x Gaming
+* Since there are many great existing social media products, any given platform needs to give users many reasons to stay. Giving them great product recommendations, engaging content, and channels to connect with their networks = a "sticky" platform that can fuel company growth 
 * Prioritizing users by playing towards their preferences and personalities, can lead to increased customer lifetime value
-* A platform that can serve groups of people at the same time can serve many while decarbonizing grocery and food delivery
+* A platform that can serve many people at the same time also serves to decarbonize grocery and food delivery
 * A social business is the best type of business serving the social, economics, and environmental needs of the most vulnerable
  
 
