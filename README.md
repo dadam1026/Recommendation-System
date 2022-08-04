@@ -7,6 +7,7 @@
 #### Project by: Derrick Adam
 #### Project Structure: Recommendation System Module
 #### Category: Social Commerce
+#### Themes: 4 & 6 Social Media x Food
 
 Motivation
 ----------
