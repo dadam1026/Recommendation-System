@@ -160,30 +160,3 @@ Additional Resources
 
 * Partnership for a Healthier America: [here](https://www.ahealthieramerica.org/)
 
-Citation
---------
-[1] R. Adusumilli, [NLP in the Stock Market](/https://github.com/roshan-adusumilli/nlp_10-ks)
-
-```
-@InProceedings{NLP_on_Financial_Statements,
-  author    = {Roshan Adusumilli},
-  title     = {NLP in the Stock Market},
-  year      = {2020},
-  publisher = {GitHub},
-  journal   = {GitHub repository},
-  url       = {https://github.com/roshan-adusumilli/nlp_10-ks}
-}
-```
-
-[1] R. Adusumilli, [NLP in the Stock Market](/https://github.com/roshan-adusumilli/nlp_10-ks)
-
-```
-@InProceedings{NLP_on_Financial_Statements,
-  author    = {Roshan Adusumilli},
-  title     = {NLP in the Stock Market},
-  year      = {2020},
-  publisher = {GitHub},
-  journal   = {GitHub repository},
-  url       = {https://github.com/roshan-adusumilli/nlp_10-ks}
-}
-```
