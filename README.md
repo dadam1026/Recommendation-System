@@ -123,12 +123,10 @@ Future Work
 Conclusion
 ----------
 * Tencent's WeChat is not successful becuase it has so many people or sells things. Rather, it monetizes its vast user base by providing seamless integration of Search x Social x Commerce x Logistics x Payments x Gaming
-* In the case of Meta/Facebook, the only way to retain and grow its existing user base is to provide them exceptional value beyond the ad business 
-* Apple shifted from a hardware focus to a recurring revenue services business -> resulting in multiple expansion -> ~2.5 trillion market cap
 * Since there are many great exisitng products, any given platform needs to give users many reasons to stay. Giving them great product recommendations, engaging content, and channels to connect with their networks -> create a "sticky" platform that can fuel company growth 
 * Prioritzing users by playing towards their prefernces and personalities, can lead to increased customer lifetime value
 * A platform that can serve groups of people at the same time can serve many while decarbonizing grocery and food delivery
-* A social business is the best type of business and juggernauts like Meta can offset projected loses in the food delivery business by further moentizing the WhatsApp and Facebook Messenger platforms. AWS subsidizes the razor-thin margins of Amazon's retail business, but that is why we get cheap prodcuts delivered so quickly. 
+* A social business is the best type of business serving the social, economics, and environmental needs of the most vulnerable
  
 
 Additional Resources
