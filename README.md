@@ -113,12 +113,8 @@ Model Evaluation & Results
 
 
 
-* Other Results:
-       
-       
-![image](https://user-images.githubusercontent.com/78511177/182874255-95563320-8d08-4be6-aa32-23f9ff180319.png)
-
-
+* Other Results -
+      
 Search results for Chianti:
 
 <img width="721" alt="Screen Shot 2022-08-03 at 10 00 08 AM" src="https://user-images.githubusercontent.com/78511177/182668073-438e0d8f-8c02-4e3a-a8f9-adc66bac7c39.png">
