@@ -69,7 +69,7 @@ Data Sourcing, Processing, & Modeling
 -------------------------------------
 * Data is sourced from Kaggle's Zomato's Recommendation System. The data file is large, so here is the link: https://www.kaggle.com/code/chirag9073/zomato-recommendation-system/notebook
 
-* The following data columns and unique values are used:
+* Columns for url, address, name, online_order, book_table, rate (and more) and their unique values are used:
 <img width="484" alt="image" src="https://user-images.githubusercontent.com/78511177/182971108-d2941310-0e4a-40db-99a6-47a55df8672b.png">
 
 
