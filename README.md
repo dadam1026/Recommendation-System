@@ -95,6 +95,7 @@ Model Evaluation & Results
 * Very successful results because it is finding similar type of restaurants:
     
     1) If a cafe is inputted, the recommendations are cafes
+       
        Example: Container Coffee 
        
        
@@ -105,6 +106,7 @@ Model Evaluation & Results
 
 
     2) If a pub  is inputted, the recommendations are pubs
+       
        Example:  Church Street Social 
        
        
@@ -113,7 +115,7 @@ Model Evaluation & Results
 
 
 
-* Other Results -
+Other Results -
       
 Search results for Chianti:
 
@@ -146,7 +148,7 @@ Conclusion
 ----------
 * Tencent's WeChat is not successful becuase it has so many people or sells things. Rather, it monetizes its vast user base by providing seamless integration of Search x Social x Commerce x Logistics x Payments x Gaming
 * Since there are many great exisitng products, any given platform needs to give users many reasons to stay. Giving them great product recommendations, engaging content, and channels to connect with their networks -> create a "sticky" platform that can fuel company growth 
-* Prioritzing users by playing towards their prefernces and personalities, can lead to increased customer lifetime value
+* Prioritizing users by playing towards their prefernces and personalities, can lead to increased customer lifetime value
 * A platform that can serve groups of people at the same time can serve many while decarbonizing grocery and food delivery
 * A social business is the best type of business serving the social, economics, and environmental needs of the most vulnerable
  
