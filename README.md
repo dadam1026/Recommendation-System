@@ -97,6 +97,7 @@ Recommendation Systems enrich the buying and social aspects of e-commerce in the
 
 Model Evaluation & Results
 ----------------------------
+* The tool works best searching for restaurants native to Bangalore, India
 * The tools is generating very successful results because it is finding similar type of restaurants to the input:
     
     1) If a cafe is inputted, the recommendations are cafes
@@ -138,6 +139,7 @@ Search results for Pai Vihar:
 Future Work
 ------------
 * Include review text and user rating evaluations (whether other users thought a particular user’s review was funny, useful, or helpful) as features in the prediction model
+* Take into consideration individual dietary restrictions
 * A platform, like WhatsApp or Facebook Messenger, can be leveraged to provide low-cost, healthy food to *food deserts*, undeveloped areas with increased levels of food insecurity. For example, at the end of day restaurant food gets trown out. That food can be routed to families living in food deserts
 * Engage other successful platforms and other organizations to increase reach. Some possible collaborators include, Amazon, Sea, MercadoLibre, Jumia, Shopify, America's Healthy Food Financing Initiative Reinvestment Fund, and Partnership for a Healthier America
 
